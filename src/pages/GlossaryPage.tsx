@@ -31,11 +31,11 @@ const GlossaryPage: React.FC = () => {
       <Footnotes footnotes={[
         {
           id: 1,
-          text: "Smith, Gene. (2008). "Tagging: People-powered Metadata for the Social Web". Berkeley: New Riders Press. ISBN 9780321529176; OCLC 154806677."
+          text: 'Smith, Gene. (2008). "Tagging: People-powered Metadata for the Social Web". Berkeley: New Riders Press. ISBN 9780321529176; OCLC 154806677.'
         },
         {
           id: 2,
-          text: "Some argue, however, see 'tags' not as metadata but as "just more content". Berendt, Bettina; Hanser, Christoph (2007). "Tags are not metadata, but 'just more content'—to some people" (PDF). Proceedings of the International Conference on Weblogs and Social Media (ICWSM). Boulder, Colorado, USA. March 26–28, 2007. Menlo Park, CA: International AAAI Conference on Artificial Intelligence. OCLC 799133393."
+          text: 'Some argue, however, see "tags" not as metadata but as "just more content". Berendt, Bettina; Hanser, Christoph (2007). "Tags are not metadata, but just more content—to some people" (PDF). Proceedings of the International Conference on Weblogs and Social Media (ICWSM). Boulder, Colorado, USA. March 26–28, 2007. Menlo Park, CA: International AAAI Conference on Artificial Intelligence. OCLC 799133393.'
         }
       ]} />
     </div>
